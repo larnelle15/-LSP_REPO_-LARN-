@@ -18,7 +18,7 @@ public class Driver {
         
         System.out.println("Set1 Length: " + set1.length());
         System.out.println("Is Set1 Empty? " + set1.isEmpty());
-        System.out.println("Smallest Value in Set1: " + set1.smallest());
+        System.out.println("tSmallest Value in Set1: " + set1.smallest());
         System.out.println("Largest Value in Set1: " + set1.largest());
         System.out.println("Does Set1 contain 2? " + set1.contains(2));
 
