@@ -1,0 +1,13 @@
+*Question 4*
+
+During our discussions of design patterns over the last two weeks we’ve discussed many reasons why incorporating them into your software design can be advantageous.  
+Briefly discuss one instance where using a design pattern may not be beneficial.
+Maximum points will be earned on this question for providing discussion presented during lecture and not on information obtained from the internet.
+
+Answer:
+
+While design patterns offer many benefits, during our class discussions we identified several situations where they may not be beneficial.
+One key instance where design patterns can be problematic is when they introduce unnecessary complexity to a simple design. As we discussed in lecture, design patterns promote flexibility "at the expense of a more complicated design." For simple problems with straightforward solutions, implementing a design pattern could overcomplicate the system, making it harder to understand and maintain.
+Additionally, we noted that "general practices/processes for using design patterns during the design process have not as yet been established." This lack of standardization means developers might struggle to consistently apply patterns, leading to misuse or inappropriate implementation.
+Our discussions also highlighted that sometimes forcing a design pattern into a solution that doesn't require it can lead to what's sometimes called "pattern abuse" - where the elegance of using a recognized pattern takes precedence over creating the most efficient solution for the specific problem at hand.
+The fundamental consideration should always be whether the pattern truly adds value to the specific system being designed, rather than applying patterns simply because they're considered good practice in general.
